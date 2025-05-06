@@ -12,10 +12,10 @@ Each script follows the structure:
 
 | Filename                          | Description |
 |----------------------------------|-------------|
-| `frb_w_smote.py`                 | Fuzzy-Ranked Based Ensemble model with SMOTE |
-| `frb_wo_smote.py`                | Fuzzy-Ranked Based Ensemble model without SMOTE |
-| `moe_w_smote.py`                 | Mixture of Experts Ensemble model with SMOTE |
-| `moe_wo_smote.py`                | Mixture of Experts Ensemble model without SMOTE |
+| `frb_w_smote.py`                 | Fuzzy-Ranked Based ensemble model with SMOTE |
+| `frb_wo_smote.py`                | Fuzzy-Ranked Based ensemble model without SMOTE |
+| `moe_w_smote.py`                 | Mixture of Experts ensemble model with SMOTE |
+| `moe_wo_smote.py`                | Mixture of Experts ensemble model without SMOTE |
 | `bagging_lr_svm_nb_w_smote.py`  | Bagging ensemble model with SMOTE |
 | `bagging_lr_svm_nb_wo_smote.py` | Bagging ensemble model without SMOTE |
 | `svm_features_w_smote.py`       | SVM using feature selection with SMOTE |
