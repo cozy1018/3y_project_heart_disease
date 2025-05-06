@@ -27,7 +27,7 @@ Each script follows the structure:
 
 ## Data
 
-The dataset used for all experiments is:
+The dataset used for all evaluations is:
 
 ```
 datafile/heart_disease_uci.csv
