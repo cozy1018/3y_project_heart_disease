@@ -38,4 +38,4 @@ datafile/heart_disease_uci.csv
 Install the required Python packages before running the scripts:
 
 ```bash
-pip install scikit-learn imbalanced-learn numpy pandas matplotlib
+pip install scikit-learn imbalanced-learn numpy pandas matplotlib seaborn tensorflow keras
